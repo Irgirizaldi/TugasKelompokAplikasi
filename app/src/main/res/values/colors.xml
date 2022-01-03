@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#197502</color>
+    <color name="teksgreen">#125900</color>
+    <color name="colorkom">#1EBE20</color>
+    <color name="teksregis">#ADADAD</color>
+    <color name="colorhint">#A7A7A7</color>
+    <color name="colorshadow">#7F000000</color>
+</resources>
